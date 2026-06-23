@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=200&section=header&text=Tommy&fontSize=80&fontColor=ffffff&animation=fadeIn&descAlignY=70&desc=Enterprise%20Software%20Engineering%20%7C%20AI%20and%20Machine%20Learning" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=200&section=header&text=Nghia%20(Tommy)%20Trang&fontSize=80&fontColor=ffffff&animation=fadeIn&descAlignY=70&desc=Enterprise%20Software%20Engineering%20%7C%20AI%20and%20Machine%20Learning" width="100%" alt="Header Banner" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+Boston+University;AI+%2F+ML+Researcher+%26+Engineer;Computer+Vision+%26+Deep+Learning;Scalable+System+Architecture" alt="Typing SVG" />
 </a>
 
