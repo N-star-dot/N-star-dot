@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=200&section=header&text=Tommy&fontSize=80&fontColor=ffffff&animation=fadeIn&descAlignY=70&desc=Enterprise%20Software%20Engineering%20%7C%20AI%20%26%20Machine%20Learning" width="100%" alt="Header Banner" />
-
+![Header Banner](https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=200&section=header&text=Tommy&fontSize=80&fontColor=ffffff&animation=fadeIn&descAlignY=70&desc=Enterprise%20Software%20Engineering%20%7C%20AI%20%26%20Machine%20Learning)
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+Boston+University;AI+%2F+ML+Researcher+%26+Engineer;Computer+Vision+%26+Deep+Learning;Scalable+System+Architecture" alt="Typing SVG" />
 </a>
@@ -237,7 +236,7 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=N-star-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=N-star-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
