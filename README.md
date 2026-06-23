@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=250&section=header&text=Nghia%20(Tommy)%20Trang&fontSize=70&fontColor=ffffff&animation=fadeIn&descAlignY=80&desc=%20Software%20Engineering%20%7C%20AI%20and%20Machine%20Learning" width="100%" alt="Header Banner" />
+
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+Boston+University;AI+%2F+ML+Researcher+%26+Engineer;Computer+Vision+%26+Deep+Learning;Scalable+System+Architecture" alt="Typing SVG" />
 </a>
 
@@ -11,7 +13,7 @@
 
 <br/>
 
-<a href="https://github.com/N-star-dot"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED&borderColor=7C3AED" alt="Portfolio" /></a>
+<a href="https://portfolio-jvgkjglb2-n-star-dots-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED&borderColor=7C3AED" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nghia-trang-874549296/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7C3AED&borderColor=7C3AED" alt="LinkedIn" /></a>
 <a href="mailto:Nghiatr38@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED&borderColor=7C3AED" alt="Email" /></a>
 <a href="https://github.com/N-star-dot"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7C3AED&borderColor=7C3AED" alt="GitHub" /></a>
