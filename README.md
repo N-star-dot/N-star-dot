@@ -199,23 +199,6 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-### AWS
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Oracle
-![Oracle Certified Professional](https://img.shields.io/badge/Oracle-Certified_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Cisco
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
----
 
 ## 📈 GitHub Analytics
 
@@ -230,15 +213,7 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=N-star-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
----
 
 ## 📊 Contribution Activity
 
