@@ -13,16 +13,16 @@
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED&borderColor=7C3AED" alt="Portfolio" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7C3AED&borderColor=7C3AED" alt="LinkedIn" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED&borderColor=7C3AED" alt="Email" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7C3AED&borderColor=7C3AED" alt="GitHub" /></a>
+<a href="https://github.com/N-star-dot"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED&borderColor=7C3AED" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nghia-trang-874549296/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7C3AED&borderColor=7C3AED" alt="LinkedIn" /></a>
+<a href="mailto:Nghiatr38@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED&borderColor=7C3AED" alt="Email" /></a>
+<a href="https://github.com/N-star-dot"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7C3AED&borderColor=7C3AED" alt="GitHub" /></a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=7C3AED&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/your-github-username?color=4C1D95&style=flat-square&logo=github&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/your-github-username?color=7C3AED&style=flat-square&logo=github&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=N-star-dot&color=7C3AED&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/N-star-dot?color=4C1D95&style=flat-square&logo=github&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/N-star-dot?color=7C3AED&style=flat-square&logo=github&label=STARS)
 
 </div>
 
@@ -92,7 +92,7 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 | **Scale** | Processed high-framerate clinical movement data securely. |
 | **Features** | Kinematic ROM tracking, interactive injury heatmaps (speech-to-text/clinical notes), and an insurance-compatible PT center map. |
 | **Impact** | Transforms raw movement data into actionable patient guidance. |
-| **Repository** | [View Source Code](#) |
+| **Repository** | [View Source Code](https://github.com/mzhang0213/hackhealth2026) |
 
 **Core Concept:** Engineered a vision pipeline to calculate movement kinematics, feeding the data into an XGBoost classifier to evaluate recovery progress (restrictive vs. recovering). An integrated LLM translates these diagnostic outputs into meaningful, patient-friendly guidance, bridging the gap between raw data and conceptual understanding of recovery.
 
@@ -109,7 +109,7 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 | **Stack** | Mobile Frontend, Voice Tech, Data Synthesizer |
 | **Features** | Location tracking, guided meditation questions, automated reporting. |
 | **Impact** | Provides users with a holistic view of their physical and mental state. |
-| **Repository** | [View Source Code](#) |
+| **Repository** | [View Source Code](https://github.com/N-star-dot/wellness-walk-journal) |
 
 **Core Concept:** Tracks the user's walking route while delivering specialized, guided meditation questions. Post-walk, the app synthesizes the physical data and the user's voice responses to generate a comprehensive, data-driven report on their overall mental state and session effectiveness.
 
@@ -126,7 +126,7 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 | **Stack** | Python, OpenCV, Deep Learning |
 | **Features** | Suboptimal movement identification, weak point tracking. |
 | **Impact** | Democratizes professional-level sports coaching through AI. |
-| **Repository** | [View Source Code](#) |
+| **Repository** | [View Source Code](https://github.com/pn-le/Rockie) |
 
 **Core Concept:** Built a custom pipeline to track user kinematics on the wall. The visual data is processed against a model trained on professional climbers, allowing the system to identify non-optimal movements and deliver highly personalized, actionable form feedback.
 
@@ -143,7 +143,7 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 | **Stack** | Python, RAG, Image Processing, Bioinformatics |
 | **Features** | Pharmacogenomics, 7-day diet generation, skin lesion analysis, RAG chatbot. |
 | **Impact** | Maximizes the utility of consumer DNA data for proactive health management. |
-| **Repository** | [View Source Code](#) |
+| **Repository** | [View Source Code](https://github.com/pn-le/G-Nome) |
 
 **Core Concept:** Extracts raw genetic data to determine drug compatibility/dosages and identify potential health risk traits. It generates tailored 7-day diet plans, features an image-processing module for preliminary skin cancer screening, and utilizes a RAG-powered chatbot with full context of the user's biometric data for accurate health inquiries.
 
@@ -160,7 +160,7 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 | **Stack** | Python, PyTorch, Multi-Agent Architecture |
 | **Features** | Spatial awareness, live vitals monitoring, automated alerts. |
 | **Impact** | Proves the viability of specialized agents collaborating for user safety. |
-| **Repository** | [View Source Code](#) |
+| **Repository** | [View Source Code](https://github.com/N-star-dot/Unleash) |
 
 **Core Concept:** Integrates a Computer Vision agent (for spatial/object awareness) and a Vitals agent (for live health data) that both feed into a central Memory agent. A processing agent evaluates this aggregated context to autonomously declare a situation's severity, triggering either an emergency call or a text message alert.
 
@@ -219,29 +219,16 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 
 ---
 
-## 💻 Competitive Programming & Profiles
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
-
-</div>
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=7C3AED&icon_color=A970FF" height="195" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=7C3AED" height="195" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=N-star-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=7C3AED&icon_color=A970FF" height="195" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-star-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=7C3AED" height="195" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A970FF&currStreakNum=7C3AED" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=N-star-dot&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A970FF&currStreakNum=7C3AED" alt="GitHub Streak" />
 
 </div>
 
@@ -250,7 +237,7 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=N-star-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -258,7 +245,7 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=A970FF&point=ffffff&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-star-dot&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=A970FF&point=ffffff&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -267,9 +254,9 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-star-dot/N-star-dot/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-star-dot/N-star-dot/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N-star-dot/N-star-dot/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
