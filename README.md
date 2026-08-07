@@ -194,13 +194,11 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 | **Voice Hack Winner** | Created a mindful walking app that merges physical tracking with synthesized mental health reports. |
 | **Hackathon Winner (Rockie)** | Engineered an AI rock climbing coach utilizing kinematic tracking against professional models. |
 | **2nd Place ("Gnome")** | Architected a multifaceted DNA health platform with pharmacogenomics and RAG integration. |
-| **Community Service Leader** | Dedicated, ongoing volunteer and community support logistics at My Brother's Table in Lynn, MA. |
 | **Tech Week Delegate** | Selected participant and active networker across New York Tech Week and Boston Tech Week events (June 2026). |
 
 </div>
 
 ---
-
 
 ## 📈 GitHub Analytics
 
@@ -214,8 +212,6 @@ A **Computer Engineering** student at Boston University specializing in **Artifi
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-star-dot&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A970FF&currStreakNum=7C3AED" alt="GitHub Streak" />
 
 </div>
-
-
 
 ## 📊 Contribution Activity
 
